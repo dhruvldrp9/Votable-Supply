@@ -1,0 +1,14 @@
+# Core Data Analysis Libraries
+pandas==2.1.4
+numpy==1.26.2
+scipy==1.11.4   
+
+# Visualization Libraries
+matplotlib==3.8.2
+seaborn==0.13.1
+
+# Optional: LLM Integration
+openai==1.6.1
+
+# Additional Utilities
+typing==3.7.4.3
